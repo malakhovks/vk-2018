@@ -11,7 +11,8 @@
     "url": "git+https://github.com/malakhovks/vk-2018.git"
   },
   "keywords": [
-    "dictionary"
+    "dictionary",
+    "research"
   ],
   "author": "Kyrylo Malakhov",
   "license": "Apache-2.0",
